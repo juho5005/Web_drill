@@ -1,3 +1,3 @@
 # Web_drill
 
-<img src="/fisrt_screenshot" width:100%>
+<img src="/fisrt_screenshot" width:100% />
